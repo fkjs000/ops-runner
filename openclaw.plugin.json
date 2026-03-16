@@ -1,0 +1,11 @@
+{
+  "id": "ops-runner",
+  "name": "Ops Runner (systemd kickoff)",
+  "description": "Kickoff long-running ops via systemd-run with shared job status state (stale detection + dedupe).",
+  "version": "0.1.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
