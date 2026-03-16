@@ -1,0 +1,15 @@
+.DS_Store
+*.log
+*.tmp
+.tmp/
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+secrets.env
+secrets.json
+secrets.json.enc
+jobs.json
+jobs.json.*
+status/
